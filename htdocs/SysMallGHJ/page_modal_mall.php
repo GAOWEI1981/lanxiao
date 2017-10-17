@@ -43,7 +43,7 @@ case "PresentTemplate":
 		PushMsg($CurUrl,"text",$_SESSION[openid],"");
 		//跳转广播
 		BroadcastMsg("客户点击了咨询按钮",5,$MsgLink,"http://{$_SERVER[HTTP_HOST]}/SysCustomerService/MainPage.php");//通知客服收到消息了
-		$sql="update states set state='unread' where item='{$_SESSION[adminID]}' ";
+		$sql="update states set state='unread' where item='{$_SESSION[adminID]}' and event='read_state'";
 		//LogInFile($sql,"log_sql.txt");
 		mysql_query($sql);
 		echo "<script>
