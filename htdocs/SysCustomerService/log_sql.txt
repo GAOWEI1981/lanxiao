@@ -1,0 +1,7 @@
+update states set state='read' where event='read_state' and item='oHg4iwwyNN1rbRumk9V_cQq_fsiM' and owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-16 23:57:06
+update states set state='read' where event='read_state' and item='oHg4iw4v9pDfJgJ_efvHUqUl-77E' and owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-16 23:57:16
+update states set state='read' where event='read_state' and item='oHg4iw4v9pDfJgJ_efvHUqUl-77E' and owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-16 23:57:20
+update states set state='read' where event='read_state' and item='oHg4iw4v9pDfJgJ_efvHUqUl-77E' and owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-16 23:57:24
+update states set state='read' where event='read_state' and item='oHg4iw4v9pDfJgJ_efvHUqUl-77E' and owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-16 23:57:28
+update states set item='unread' where item='oHg4iwwyNN1rbRumk9V_cQq_fsiM' 	2017-10-17 00:22:38
+update states set item='unread' where item='oHg4iw0Mz1bjNUnQq8S_aNgHteyE' 	2017-10-17 00:23:43
